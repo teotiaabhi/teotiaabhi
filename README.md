@@ -1,5 +1,20 @@
 # 💫 About Me:
-I’m a passionate builder and learner who loves working on ambitious tech projects, experimenting with AI systems, and creating things that actually <br>solve problems. Always curious, always shipping. 🚀<br>🔭 I’m currently working on:<br>AI system architecture, multi-layer model design, and training custom datasets for advanced reasoning systems.<br><br>👯 I’m looking to collaborate on:<br>Open-source AI projects, ML pipelines, research tooling, and experimental system frameworks.<br><br>🤝 I’m looking for help with:<br>Model optimization, deployment at scale, GPU workflows, and evaluation strategies.<br><br>🌱 I’m currently learning:<br>Advanced LLM training, distributed systems, reinforcement learning, and MLOps.<br><br>💬 Ask me about:<br>AI architectures, dataset engineering, model orchestration layers, and system design.
+I’m a passionate cybersecurity learner focused on building strong practical skills in ethical hacking, system security, and vulnerability analysis. I actively practice hands-on labs on TryHackMe, where I have achieved a Top 6% global rank by completing 70+ real-world cybersecurity scenarios.
+
+🔭 I’m currently working on:
+Documenting cybersecurity labs, improving Linux security skills, practicing privilege escalation techniques, and building a structured GitHub portfolio of security writeups.
+
+👯 I’m looking to collaborate on:
+Cybersecurity projects, security research, open-source security tools, and practical penetration testing labs.
+
+🤝 I’m looking for help with:
+Advanced penetration testing techniques, real-world vulnerability analysis, and improving defensive security skills.
+
+🌱 I’m currently learning:
+Linux system security, network enumeration, web application security, privilege escalation, and cybersecurity methodologies.
+
+💬 Ask me about:
+TryHackMe labs, Linux commands, Nmap, Wireshark, enumeration techniques, and cybersecurity learning roadmap.
 
 
 ## 🌐 Socials:
