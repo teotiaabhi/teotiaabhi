@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate cybersecurity learner focused on building strong practical skills in ethical hacking, system security, and vulnerability analysis. I actively practice hands-on labs on TryHackMe, where I have achieved a Top 6% global rank by completing 90+ real-world cybersecurity scenarios.
+I’m a passionate cybersecurity learner focused on building strong practical skills in ethical hacking, system security, and vulnerability analysis. I actively practice hands-on labs on TryHackMe, where I have achieved a Top 6% global rank by completing 91+ real-world cybersecurity scenarios.
 
 🔭 I’m currently working on:
 Documenting cybersecurity labs, improving Linux security skills, practicing privilege escalation techniques, and building a structured GitHub portfolio of security writeups.
